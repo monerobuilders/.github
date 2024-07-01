@@ -4,4 +4,4 @@ Welcome to the official GitHub organization of Monero Builders, an organization 
 
 - ### [Matrix](https://matrix.to/#/%23builders:monero.social)
 - ### [X (fka Twitter)](https://x.com/monerobuilders)
-- ### [Email](email:hello@monero.builders)
+- ### [Email](mailto:hello@monero.builders)
